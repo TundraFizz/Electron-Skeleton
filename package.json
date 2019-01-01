@@ -7,14 +7,14 @@
   "license": "ISC",
   "dependencies": {
     "electron": "latest",
-    "jquery":   "latest"
+    "jquery": "latest"
   },
   "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/TundraFizz/Tundra-Fizz"
   },
-   "scripts": {
+  "scripts": {
     "start": "electron ."
   }
 }
